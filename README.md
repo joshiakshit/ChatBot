@@ -1,6 +1,6 @@
 # Java Chat Application
 
-A simple client-server chat application written in Java, featuring both console and GUI (Swing) clients. Multiple users can connect to the server locally, send messages, and see them broadcast to all connected clients. Each user is assigned a unique color in the GUI for easy identification.
+A simple client-server chat application written in Java, featuring GUI (Swing) clients. Multiple users can connect to the server locally, send messages, and see them broadcast to all connected clients. Each user is assigned a unique color in the GUI for easy identification.
 
 ---
 
